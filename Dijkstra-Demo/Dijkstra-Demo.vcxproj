@@ -140,6 +140,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Dijkstra-Demo.cpp" />
+    <ClCompile Include="Weighted_Digraph.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Weighted_Digraph.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="matrix.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
