@@ -9,7 +9,8 @@ int main()
 	digraph.loadGraph("matrix.txt");
 
 	for (int i : digraph.calculateDistances(0)) {
-		std::cout << i << std::endl;
+		std::cout << i << "\t";
 	}
+	std::cout << std::endl;
 }
 
