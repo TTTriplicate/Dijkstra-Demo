@@ -1,4 +1,6 @@
-// Dijkstra-Demo.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// Dijkstra-Demo.cpp 
+// A program using a Weighted Digraph class to demonstrate Dijksta's Algorithm
+// Written by Chris Sousa, Marissa Kulz, and Cameron Jewett
 //
 
 #include "Weighted_Digraph.h"
