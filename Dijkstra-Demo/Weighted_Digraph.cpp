@@ -1,8 +1,6 @@
 // Weighted_Digraph.cpp
 // Simulates a weighted, directed graph for demonstration of Dijkstra's algorithm
 // Created by Chris Sousa, Marissa Kulz, and Cameron Jewett
-
-
 #include "Weighted_Digraph.h"
 
 Weighted_Digraph::Weighted_Digraph() {};
@@ -60,4 +58,3 @@ void Weighted_Digraph::loadGraph(std::string path) {
 	}
 
 }
-

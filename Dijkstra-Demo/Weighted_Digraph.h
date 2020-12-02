@@ -20,4 +20,3 @@ public:
 	std::vector<int> calculateDistances(int start);
 	void loadGraph(std::string path);
 };
-
